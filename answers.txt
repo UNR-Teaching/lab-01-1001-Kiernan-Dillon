@@ -1,0 +1,5 @@
+I think the > added the file to the directory and wrote the lsit of file names into the file like ls does in the terminal.
+
+git status shows that newfile.txt is ready to be committed to the git respository while answers.txt is still untracked.
+
+
